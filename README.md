@@ -1,4 +1,4 @@
-# FLAP.AI
+# FLAP.AI PROJECT FOR PROMPTWARS-VIRTUAL
 
 **Human-Adaptive Flappy Bird — Version 2.0**  
 Developed for the GDG × Hack2Skill Hackathon
