@@ -1,4 +1,4 @@
-# FLAP.AI × IoT
+# FLAP.AI
 
 **The Human-First Evolved Flappy Bird**  
 GDG × Hack2Skill · Version 2.0
