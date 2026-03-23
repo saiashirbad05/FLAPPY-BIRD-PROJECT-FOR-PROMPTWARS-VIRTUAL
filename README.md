@@ -7,7 +7,7 @@ VISIT THE GAME IN -[ flappyaipromptarsvirtual.netlify.app ]
 
 ## Overview
 
-FLAP.AI is a complete reimagination of the classic Flappy Bird arcade game, engineered to respond dynamically to the player in real time. It integrates biometric feedback, ambient environmental sensing, and AI-generated game worlds powered by the Google Gemini API and physical IoT hardware via an ESP32 microcontroller.
+FLAPPY BIRD  is a complete reimagination of the classic Flappy Bird arcade game, engineered to respond dynamically to the player in real time. It integrates biometric feedback, ambient environmental sensing, and AI-generated game worlds powered by the Google Gemini API and physical IoT hardware via an ESP32 microcontroller.
 
 The project bridges retro game mechanics with modern human-computer interaction — producing a gameplay experience that is unique to each player, each session, and each environment.
 
